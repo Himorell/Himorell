@@ -5,17 +5,17 @@
 </div>  
   
 
-### <div align="center">I'm  a web full-stack web junior developer</div>  
+### <div align="center">I'm a junior web full-stack developer</div>  
   
 
-- 🌱  I’m currently learning Web Full Stack Developer with FemCoders Málaga P1  
+- 🌱  I’m currently learning Web Full Stack with FemCoders Málaga P1  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%">
 
 
 
@@ -51,7 +51,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Himorell" target="_blank">
@@ -62,22 +61,10 @@
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Himorell&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
 
 <br/>  
 
