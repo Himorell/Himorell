@@ -4,7 +4,7 @@
 ### <div align="center">About me</div>  
   
 
-I am a statistics professional and junior full-stack web developer with experience in data management and solving complex problems. Recently, I completed a bootcamp where I acquired skills in full web development and discovered my passion for backend development.
+I am a statistics professional and junior full-stack web developer with experience in data management and solving complex problems. Recently, I completed a bootcamp with FemCoders Malaga P1, where I acquired skills in full web development and discovered my passion for backend development.
 
 I enjoy constantly learning and consider myself a curious and resourceful person who is always striving for improvement. I am passionate about data analysis and manipulation, and I love applying these skills to create innovative and efficient solutions for end users.
 
@@ -13,6 +13,7 @@ In my free time, I enjoy learning new technologies and programming languages, as
 
 <br/>  
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Himorell" alt="Himorell" /></a> </p>
 
 ## My Skill Set  
 <table align="center"><tr><td valign="top" width="50%">
@@ -64,7 +65,8 @@ In my free time, I enjoy learning new technologies and programming languages, as
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Himorell&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Himorell&show_icons=true&count_private=true&hide_border=true" align="center" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himorell&show_icons=true&locale=en&layout=compact" alt="Himorell" /></div> 
+
 
 <br/>  
 
