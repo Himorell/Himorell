@@ -1,10 +1,14 @@
-### Hi, I'm Himo
+## <h3 align="center">Hi, I'm Himo</h3>
  
 
-### <div align="center">I'm a junior web full-stack developer</div>  
+### <div align="center">About me</div>  
   
 
-- 🌱  I’m currently learning Web Full Stack with FemCoders Málaga P1  
+I am a statistics professional and junior full-stack web developer with experience in data management and solving complex problems. Recently, I completed a bootcamp where I acquired skills in full web development and discovered my passion for backend development.
+
+I enjoy constantly learning and consider myself a curious and resourceful person who is always striving for improvement. I am passionate about data analysis and manipulation, and I love applying these skills to create innovative and efficient solutions for end users.
+
+In my free time, I enjoy learning new technologies and programming languages, as well as participating in open-source projects to expand my knowledge and skills. I consider myself a committed, proactive, and collaborative individual, and I am excited to be part of a team that shares my passion for technology, data, and web development  
   
 
 <br/>  
